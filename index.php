@@ -39,7 +39,7 @@
 
       <img class="mx-2" src="static/images/logo.png" alt="logo" width="30" height="30" />
       <a class="navbar-brand text-warning" href="#">COOL'HEURE</a>
-    
+
       <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
@@ -65,10 +65,10 @@
   </nav>
 
   <div class="container">
-    <div class="row p-4 p-md-5 mb-4 text-white rounded bg-orange2 mt-4">
+    <div class="row p-4 p-md-5 mb-4 text-white rounded bg-purple mt-4">
       <h1 class="display-4 font-italic">Maison Cool'Heure</h1>
       <div class="col-md-6 px-0">
-        <p class="lead my-3 ">La Maison Cool’heure est un centre dédié au développement personnel des
+        <p class="lead my-5 mx-3">La Maison Cool’heure est un centre dédié au développement personnel des
           enfants, un espace-temps bienveillant pour y développer une ontologie
           optimiste et volontariste.</p>
         <div class="bienvenue"><i class="fas fa-praying-hands"></i>
@@ -90,7 +90,7 @@
     </div>
 
     <div>
-      <h2 class="text-center">Retrouvez-nous sur notre page <a href="https://www.facebook.com/Maisoncoolheure/" class="link-danger">Facebook</a></H2>
+      <h2 class="text-center">Retrouvez-nous sur notre page <a href="https://www.facebook.com/Maisoncoolheure/" target="_blank" class="link-danger">Facebook</a></H2>
     </div>
 
     <hr>
@@ -111,12 +111,23 @@
     <hr>
 
 
- 
+
     <section id="1">
       <div class="my-5"></div>
-      
 
-      <h2 class="my-5">Accueil</h2>
+
+      
+      <div class="project-thumbnail ">
+  
+        <div class="project-title">
+          <div class="client-name display-5 my-1 py-1">😊</div>
+          <div class="title-sep display-5  my-1 py-1">/</div>
+          <div class="project-name display-5  my-1 py-1">
+            <span>Accueil</span>
+          </div>
+        </div>
+      </div>
+      <div class="my-5"></div>
 
       <p class="ms-2 text-center my-4">
 
@@ -206,12 +217,25 @@
 
 
     <section id="2">
-    <div class="my-5"></div>
-    
-      <h2 class="my-5">Equipe</h2>
+      
+
+      
+      <div class="project-thumbnail ">
+  
+        <div class="project-title">
+          <div class="client-name display-5 my-1 py-1">😊</div>
+          <div class="title-sep display-5  my-1 py-1">/</div>
+          <div class="project-name display-5  my-1 py-1">
+            <span>Equipe</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="my-5"></div>
+
       <div class="row">
-        <div class="member img-thumbnail  col-lg-4 ">
-          <img src="static/images/photos/photo-sarah.jpeg" class="img-fluid" alt="Photo de Sarah">
+        <div class="img-thumbnail  col-lg-4 ">
+          <img src="static/images/photos/photo-sarah.jpeg" class="member img-fluid" alt="Photo de Sarah">
 
 
 
@@ -219,18 +243,18 @@
           <!-- <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
           <!-- <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p> -->
         </div>
-        <div class="member img-thumbnail  col-lg-4">
-   
-          <img src="static/images/photos/photo-yahel.JPG" class="img-fluid" alt="Photo de Sarah">
+        <div class="img-thumbnail col-lg-4">
 
-   
-          
+          <img src="static/images/photos/photo-yahel.JPG" class="member img-fluid" alt="Photo de Yahel">
+
+
+
           <h2 class="mb-0 pm-0">Yahel Perez</h2>
           <!-- <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
           <!-- <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p> -->
         </div>
-        <div class="member img-thumbnail  col-lg-4">
-          <img src="static/images/photos/photo-lydia.jpg" class="img-fluid" alt="Photo de Sarah">
+        <div class="img-thumbnail  col-lg-4">
+          <img src="static/images/photos/photo-lydia.jpg" class="member img-fluid" alt="Photo de Lydia">
 
           <h2 class="mb-0 pm-0">Lydia Amellal</h2>
           <!-- <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
@@ -244,11 +268,24 @@
 
     <hr>
 
- 
-    <section id="3">
-    <div class="my-5"></div> 
 
-      <h2 class="my-5">Rendez-vous</h2>
+    <section id="3">
+      <div class="my-5"></div>
+
+      
+      <div class="project-thumbnail ">
+  
+        <div class="project-title">
+          <div class="client-name display-5 my-1 py-1">😊</div>
+          <div class="title-sep display-5  my-1 py-1">/</div>
+          <div class="project-name display-5  my-1 py-1">
+            <span>Rendez-vous</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="my-5"></div>
+
       <p class="text-center">Vous pouvez appeler pour prendre un rendez-vous</p>
       <p class="text-center"><i class="fas fa-phone-alt"> 0474 12 37 28</i></p>
       <div class="adress text-center">
@@ -262,12 +299,24 @@
     <hr>
 
 
-    
-    <section id="4">
-    <div class="my-5"></div>
-      <h2 class="my-5">Services</h2>
 
-      <p class="text-center">
+    <section id="4">
+
+
+      <div class="project-thumbnail ">
+
+        <div class="project-title">
+          <div class="client-name display-5 my-1 py-1">😊</div>
+          <div class="title-sep display-5  my-1 py-1"">/</div>
+          <div class=" project-name display-5 my-1 py-1"">
+            <span>Services</span>
+          </div>
+        </div>
+      </div>
+
+
+
+      <p class="text-center my-5">
 
         <strong>Accueils, thérapies, ateliers, conférences pour un mieux-être.<br />
 
@@ -365,40 +414,54 @@
 
 
     <section id="5" class="mt-5">
-    <div class="my-5"></div>
-      <h2 class="my-5">Galerie</h2>
+      <div class="my-5"></div>
+     
+
+    
+      <div class="project-thumbnail ">
+  
+        <div class="project-title">
+          <div class="client-name display-5 my-1 py-1">😊</div>
+          <div class="title-sep display-5  my-1 py-1">/</div>
+          <div class="project-name display-5  my-1 py-1">
+            <span>Galerie</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="my-5"></div>
 
 
       <p> Toute la Galerie <a class="link-danger" href="galery.html">ICI</a></p><br />
 
       <div class="container">
 
-  <div class="row">
-      <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="image-block">
-             <img src="static/images/maison/showing1.png">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="image-block">
+              <img src="static/images/maison/showing1.png">
             </div>
-           
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="image-block">
-           <img src="static/images/maison/showing2.png" />
+
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="image-block">
+              <img src="static/images/maison/showing2.png" />
             </div>
-           
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="image-block">
-              <img src="static/images/maison/showing3.png"/>
+
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="image-block">
+              <img src="static/images/maison/showing3.png" />
             </div>
-        
-           
+
+
+          </div>
         </div>
-    </div>
 
     </section>
 
 
-   <br/><br/>
+    <br /><br />
 
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
       <ol class="carousel-indicators">
@@ -421,11 +484,11 @@
           if ($i <= 1) {
         ?>
             <div class="carousel-item active">
-              <img src="static/images/maison/<?= $i ?>.jpg" class="d-block w-100" alt="...">
+              <img src="static/images/maison/<?= $i ?>.jpg" class=" mx-auto d-block w-100"  alt="...">
             </div>
           <?php } else { ?>
             <div class="carousel-item">
-              <img src="static/images/maison/<?= $i ?>.jpg" class="d-block w-100" alt="...">
+              <img src="static/images/maison/<?= $i ?>.jpg" class="mx-auto d-block w-100" alt="...">
             </div>
         <?php
           }
