@@ -65,7 +65,7 @@
   </nav>
 
   <div class="container">
-    <div class="row p-4 p-md-5 mb-4 text-white rounded bg-purple mt-4">
+    <div class="row p-4 p-md-5 mb-4 text-white rounded bg-orange2 mt-4">
       <h1 class="display-4 font-italic">Maison Cool'Heure</h1>
       <div class="col-md-6 px-0">
         <p class="lead my-5 mx-3">La Maison Cool’heure est un centre dédié au développement personnel des
@@ -85,7 +85,7 @@
         </div>
       </div>
       <div class="col-md-6 px-0">
-        <img class="img-fluid" src="static/images/maison/12.jpg" alt="">
+        <img class="img-fluid" src="static/images/maison/11.jpg" alt="">
       </div>
     </div>
 
@@ -116,9 +116,9 @@
       <div class="my-5"></div>
 
 
-      
+
       <div class="project-thumbnail ">
-  
+
         <div class="project-title">
           <div class="client-name display-5 my-1 py-1">😊</div>
           <div class="title-sep display-5  my-1 py-1">/</div>
@@ -144,10 +144,10 @@
       </blockquote>
 
       <ul>
-        <li class="list-group-item disabled">si la recherche en développement personnel était accessible à tous</li>
-        <li class="list-group-item disabled">si nous savions cmt restaurer le lien avec Nous-même </li>
-        <li class="list-group-item disabled">si nous savions cmt entretenir des liens sains avec les Autres</li>
-        <li class="list-group-item disabled">si nous savions cmt respecter notre lien à la Nature</li>
+        <li class="list-group-item mt-2">si la recherche en développement personnel était accessible à tous</li>
+        <li class="list-group-item mt-2">si nous savions cmt restaurer le lien avec Nous-même </li>
+        <li class="list-group-item mt-2">si nous savions cmt entretenir des liens sains avec les Autres</li>
+        <li class="list-group-item mt-2">si nous savions cmt respecter notre lien à la Nature</li>
       </ul><br />
 
       <p>
@@ -155,9 +155,9 @@
         <p />
 
       <ul>
-        <li class="list-group-item disabled">des pratiques de bien-être,</li>
-        <li class="list-group-item disabled">des soins thérapeutiques </li>
-        <li class="list-group-item disabled"> et des ateliers d’échange </li>
+        <li class="list-group-item mt-2">des pratiques de bien-être,</li>
+        <li class="list-group-item mt-2">des soins thérapeutiques </li>
+        <li class="list-group-item mt-2"> et des ateliers d’échange </li>
       </ul><br />
 
       <p class="text-center">Vous trouverez ici un espace hors du temps et une équipe de soutien face aux difficultés de la vie et
@@ -177,10 +177,10 @@
       <h3>La Maison Cool’heure un espace de soin :</h3><br />
 
       <ul>
-        <li class="list-group-item disabled">Cicatriser des 5 blessures de l’enfance : rejet,
-          abandon, trahison, humiliation, injustice</li>
-        <li class="list-group-item disabled">Soulager les angoisses, la dépression, l’addiction, la phobie sociale</li>
-        <li class="list-group-item disabled"> Apaiser ses émotions violentes et traumas</li>
+        <li class="list-group-item mt-2">Cicatriser des 5 blessures de l’enfance : rejet,
+          abandon, trahison, humil mt-2iation, injustice</li>
+        <li class="list-group-item mt-2">Soulager les angoisses, la dépression, l’addiction, la phobie sociale</li>
+        <li class="list-group-item mt-2"> Apaiser ses émotions violentes et traumas</li>
       </ul><br />
 
       <p class="text-center">Prendre soin de son âme, c’est aussi retourner vers
@@ -217,11 +217,11 @@
 
 
     <section id="2">
-      
 
-      
+
+
       <div class="project-thumbnail ">
-  
+
         <div class="project-title">
           <div class="client-name display-5 my-1 py-1">😊</div>
           <div class="title-sep display-5  my-1 py-1">/</div>
@@ -272,9 +272,9 @@
     <section id="3">
       <div class="my-5"></div>
 
-      
+
       <div class="project-thumbnail ">
-  
+
         <div class="project-title">
           <div class="client-name display-5 my-1 py-1">😊</div>
           <div class="title-sep display-5  my-1 py-1">/</div>
@@ -325,13 +325,13 @@
           Pour abandonner les idées négatives et les reformuler en pensées positives.</strong>
       </p>
       <div class="list-group ">
-        <a href="#" title="servives" class="list-group-item disabled text-center">NOS SERVICES</a>
+        <a href="https://www.facebook.com/pg/Maisoncoolheure/services/?ref=page_internal" title="servives" class="list-group-item list-group-item-light text-center">NOS SERVICES</a>
 
 
         <br />
-        <a "list-group-item list-group-item-danger"> Groupe PEACE</a>
-        <a "list-group-item list-group-item-danger"> Méthode PEACE</a>
-        <a "list-group-item list-group-item-danger"> Logosynthèse</a>
+        <a "list-group-item list-group-item-dange"> Groupe PEACE</a>
+        <a "list-group-item list-group-item-dange"> Méthode PEACE</a>
+        <a "list-group-item list-group-item-dange"> Logosynthèse</a>
 
 
 
@@ -340,6 +340,7 @@
         <a "list-group-item list-group-item-danger"> Ronde des tambours</a>
         <a "list-group-item list-group-item-danger"> Yoga du rire</a>
         <a "list-group-item list-group-item-danger"> Méditation</a>
+        <a "list-group-item list-group-item-danger"> Essentiels en Permaculture</a>
 
       </div>
   </div>
@@ -356,9 +357,9 @@
 
         Déroulement d'une séance :
       <ul>
-        <li class="list-group-item list-group-item-danger"> Anamnèse (étude des signes) : déceler les problèmes affectant le corps tout entier par le crâne.</li>
-        <li class="list-group-item list-group-item-danger">Corrections au Sacrum, lieu de correction général</li>
-        <li class="list-group-item list-group-item-danger">Libérations locales des restrictions de mouvement : du bassin en remontant la colonne vers le crâne, avec
+        <li class="list-group-item list-group-item-danger mt-2">Corrections au Sacrum, lieu de correction général</li>
+        <li class="list-group-item list-group-item-danger mt-2">Libérations locales des restrictions de mouvement : du bassin en remontant la colonne vers le crâne, avec
+        <li class="list-group-item list-group-item-danger mt-2"> Anamnèse (étude des signes) : déceler les problèmes affectant le corps tout entier par le crâne.</li>
           des détours viscéral, pied, diaphragme.</li>
       </ul>
       Les gestes de correction sont légers " comme le battement d’ailes d'un papillon</p>
@@ -396,18 +397,36 @@
       <h4>Groupe PEACE - Yahel Perez (suspendu)</h4>
       <p class="price">2 heures • 80 $</p>
       <p>Faire un travail thérapeutique en groupe, c’est partager notre vécu avec d’autres et entendre le leur. C’est
-        recevoir un autre regard que celui que l’on porte sur notre situation.
+        recevoir un autre regard que celui que l’on porte sur notre situation.</p>
 
       <ul>
-        <li class="list-group-item list-group-item-danger">En début et fin de séance, un exercice de cohérence cardiaque de 5 à 10 minutes</li>
-        <li class="list-group-item list-group-item-danger">un moment de partage. Pour s’exprimer, réfléchir sur soi en fonction de ce qui vient des autres, choisir la
+        <li class="list-group-item list-group-item-danger mt-2">En début et fin de séance, un exercice de cohérence cardiaque de 5 à 10 minutes</li>
+        <li class="list-group-item list-group-item-danger mt-2">un moment de partage. Pour s’exprimer, réfléchir sur soi en fonction de ce qui vient des autres, choisir la
           situation qu’on voudra travailler en groupe</li>
-        <li class="list-group-item list-group-item-danger">un exercice en méthode PEACE </li>
+        <li class="list-group-item list-group-item-danger mt-2">un exercice en méthode PEACE </li>
       </ul>
-      Les groupes PEACE ne sont pas destinés à remplacer les séances individuelles. C’est une autre approche, une
-      possibilité en plus, simplement.</p>
+      <p>Les groupes PEACE ne sont pas destinés à remplacer les séances individuelles. C’est une autre approche, une
+        possibilité en plus, simplement.</p>
 
     </div>
+
+    <div>
+      <h4>Formation Cool'Vert</h4>
+      <h4>Les essentiels en Permaculture</h4>
+      <p class="price">en Journée • Prix variable</p>
+      <p>La Maison Cool’heure se met au vert dès septembre 2020 avec les formations en permaculture !!</p>
+      <p>Notre objectif est de vous permettre de jardiner en ville :</p>
+      <ul>
+        <li class="list-group-item list-group-item-danger mt-2">en œuvrant pour la biodiversité</li>
+        <li class="list-group-item list-group-item-danger mt-2">sans craquer le budget</li>
+        <li class="list-group-item list-group-item-danger mt-2">ni passer sa vie à travailler au jardin</li>
+      </ul>
+
+      <p>Intéressé(e) ? <a class="link-danger" href="https://forms.gle/Fe6oA18j46PY8oT27">Inscrivez-vous</a></p>
+      <p>Yahel Perez, une vraie passionnée de la nature, vous propose une journée découverte des essentiels en permaculture entre amis ou en famille.</p>
+      <p>Venez découvrir cette philosophie de vie et repartez avec les connaissances indispensables pour créer un éco-système fonctionnel chez vous ainsi que le croquis de votre jardin en permaculture !</p>
+    </div>
+
     </section>
 
     <hr>
@@ -415,11 +434,11 @@
 
     <section id="5" class="mt-5">
       <div class="my-5"></div>
-     
 
-    
+
+
       <div class="project-thumbnail ">
-  
+
         <div class="project-title">
           <div class="client-name display-5 my-1 py-1">😊</div>
           <div class="title-sep display-5  my-1 py-1">/</div>
@@ -484,11 +503,11 @@
           if ($i <= 1) {
         ?>
             <div class="carousel-item active">
-              <img src="static/images/maison/<?= $i ?>.jpg" class=" mx-auto d-block w-100"  alt="...">
+              <img src="static/images/maison/<?= $i ?>.jpg" class=" mx-auto d-block col-xs-12 col-sm-6 col-md-4" alt="...">
             </div>
           <?php } else { ?>
             <div class="carousel-item">
-              <img src="static/images/maison/<?= $i ?>.jpg" class="mx-auto d-block w-100" alt="...">
+              <img src="static/images/maison/<?= $i ?>.jpg" class="mx-auto d-block col-xs-12 col-sm-6 col-md-4" alt="...">
             </div>
         <?php
           }
